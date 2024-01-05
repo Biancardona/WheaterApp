@@ -1,0 +1,20 @@
+{
+  "name": "wheaterapp",
+  "version": "1.0.0",
+  "main": "index.html",
+  "description": "Wheater Application with JS , HTML, and CSS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biancardona/WheaterApp.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel serve index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Bianca Cardona",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
